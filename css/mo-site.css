@@ -581,6 +581,14 @@ header nav .form i {
     padding-right: 80px;
 }
 
+@media (max-width: 767px){
+    .socials i {
+        
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+}
+
 .socials a:nth-child(1) i {
     color: rgb(16, 16, 177);
 }
