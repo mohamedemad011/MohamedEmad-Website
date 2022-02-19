@@ -175,6 +175,8 @@ header nav ul li a {
     z-index: 2;
 }
 
+
+
 header .mohamed a {
     position: absolute;
     text-decoration: none;
@@ -597,12 +599,16 @@ header nav .form i {
 .contact {
     padding-top: 80px;
     padding-bottom: 80px;
+   
+    
 }
 .socials {
     display:flex;
     justify-content: center;
     
 }
+
+
 
 .socials i {
     
