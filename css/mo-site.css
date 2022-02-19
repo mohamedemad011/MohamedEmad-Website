@@ -175,6 +175,35 @@ header nav ul li a {
     z-index: 2;
 }
 
+header .mohamed a {
+    position: absolute;
+    text-decoration: none;
+    font-weight: bold;
+    color:rgb(163, 17, 7);
+    font-size: 30px;
+    left: -23%;
+    bottom: 0%;
+}
+
+header nav .mohamed {
+    position: absolute;
+   
+    font-weight: bold;
+   
+    font-size: 30px;
+    left: 13%;
+    bottom: 22%;
+}
+header nav span {
+    position: absolute;
+    
+    font-weight: bold;
+    color:rgb(201, 166, 14);
+    font-size: 30px;
+    left: -23%;
+    bottom: 0%;
+}
+
 header nav ul li a:hover {
     font-size: 18px;
     border-bottom: 1px solid var(--main-color);
