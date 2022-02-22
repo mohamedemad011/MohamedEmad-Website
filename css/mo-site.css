@@ -262,7 +262,7 @@ header nav .form i {
     display: flex;
     justify-content: center;
     animation-name: show-text;
-    animation-duration: 5s;
+    animation-duration: 3s;
 }
 @keyframes show-text {
   from {
